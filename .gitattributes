@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Head elements</title>
+    <meta name="description" content="This is how works our head">
+    <meta name="keywords" content="html,head">
+    <meta name="author" content="Massi">
+    <link rel="icon" type="image/x-icon" href=C:\Users\Usuario\Desktop\___Head.zip___1656929874868\._favicon.ico>
+    <base target="MDN" href="https://developer.mozilla.org/es/docs/Web/HTML/Element/base"  >
+    <meta http-equiv="refresh" content="30">
+</head>
+<body>
+   
+</body>
+</html>
